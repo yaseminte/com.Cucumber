@@ -8,8 +8,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "@ikisi", // "@ikisi or @iphone" seklinde de yazilabiliyor
-        dryRun = true
+        tags = "@hmc", // "@ikisi or @iphone" seklinde de yazilabiliyor
+        dryRun = false
 )
 
 public class Runner {
