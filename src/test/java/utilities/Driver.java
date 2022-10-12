@@ -82,4 +82,10 @@ public class Driver {
 
     }
 
+    public static void quitDriver() {
+        if (driver != null) { // driver'a deger atanmissa
+            driver.quit();
+            driver = null;
+        }
+    }
 }

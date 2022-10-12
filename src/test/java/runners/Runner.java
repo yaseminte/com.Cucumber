@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "@hmc", // "@ikisi or @iphone" seklinde de yazilabiliyor
+        tags = "@PracticeAmazon", // "@ikisi or @iphone" seklinde de yazilabiliyor
         dryRun = false
 )
 
