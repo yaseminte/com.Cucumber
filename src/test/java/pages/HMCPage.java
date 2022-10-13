@@ -9,18 +9,20 @@ public class HMCPage {
     public HMCPage() {
         PageFactory.initElements(Driver.getDriver(),this);
     }
+
     @FindBy(xpath = "//*[text()='Log in']")
     public WebElement loginButton;
 
     @FindBy(xpath = "//input[@id='UserName']")
-    public WebElement userNameButton;
+    public WebElement userNameBox;
 
     @FindBy(xpath = "//input[@id='Password']")
-    public WebElement passwordButton;
+    public WebElement passwordBox;
 
     @FindBy(id = "btnSubmit")
     public WebElement ikinciLoginButton;
 
-    @FindBy(xpath = "(//a[@class='dropdown-toggle'])[1]")
-    public WebElement managerYazisi;
+    @FindBy(id = "menuHotels")
+    public WebElement hotelManagement;
+
 }
