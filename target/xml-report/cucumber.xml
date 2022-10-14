@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.694">
-    <testcase classname="US1011 web tablosundaki istenen sutunu yazdirma" name="TC16 kullanici sutun basligi ile liste alabilmeli" time="22.484">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.248">
+    <testcase classname="US1003 Kullanici parametre kullanarak arama yapılabilmeli" name="Kullanici parametre ile amazonda arama yapabilmeli" time="12.039">
         <system-out>
-            <![CDATA[Given kullanici "guruUrl" anasayfasinda.....................................passed
-And "Prev Close (Rs)", sutunundaki tum degerleri yazdirir...................passed
+            <![CDATA[Given kullanici amazon anasayfasinda........................................passed
+And kullanici "Java" icin arama yapar.......................................passed
+And sonuclarin "Java" icerdigini test eder..................................passed
 Then sayfayi kapatir........................................................passed
 ]]>
         </system-out>

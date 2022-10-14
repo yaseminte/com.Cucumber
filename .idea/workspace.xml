@@ -5,14 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="167c15cf-7004-4675-b9d4-a34eb46c48a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Screenshots/amazon20221004092511.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221012090118.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221012090248.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014032520.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014033120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014042924.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014043008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014043027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014050424.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014050608.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014050916.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014051325.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014051748.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014072810.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014080111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014080948.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/WElementScreenshots/FakeMail20221014081903.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/json-reports/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumber.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/PracticeAmazon.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1001_AmazonSearch.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1002_BackgroundKullanim.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1003_ParametreKullanimi.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1004_ConfigDosyasindanParametreKullanimi.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1005_HotelMyCampPositiveLogin.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1006_HotelMyCampNegativeLogin.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1007_ScenarioOutline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1008_NegativeLoginScenarioOutline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1009_DataTablesScenarioOutline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1010_Herokuapp.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1011_GuruTest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BrcPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/DataTablesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/FacebookPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GuruPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HMCPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HerokuappPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/PracticeAmazonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AmazonStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/DataTablesStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/GuruStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HMCStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HerokuappStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/PracticeAmazonStepDef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C01_BeforeMethod_AfterMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C02_BeforClass_AfterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C03_Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C04_DependsOnMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C05_Assertions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C06_SoftAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_notations/C07_SoftAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_pom/C01_YeniDriverIlkClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_pom/C02_PageClassKullanimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_pom/C03_PageClassKullanimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18_pom/C01_ConfigReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18_pom/C02_ConfigReaderKullanimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day19_smokeTest/NegatifLoginTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day19_smokeTest/PozitifLoginTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_xmlFiles/C01_BugunXmlDosyalarOlusturuldu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day21_reusableMethods_HtmlReports/C01_WindowHandleReusableMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day21_reusableMethods_HtmlReports/C02_ScreenShotReusableMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day21_reusableMethods_HtmlReports/C03_PozitifLoginTestiRaporu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day22_crossBrowser/C01_AssertionsCross.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day22_crossBrowser/C02_SoftAssertCross.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day22_crossBrowser/C03_DataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day22_crossBrowser/C04_NegatifLoginDataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/CrossDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseCross.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseRapor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xml-report/cucumber.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +125,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="JUnit.Runner">
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Scenario: Amazon Sign in test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/PracticeAmazon.feature" />
@@ -111,7 +183,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: TC16 kullanici sutun basligi ile liste alabilmeli" />
         <item itemvalue="Cucumber Java.Scenario: Amazon Sign in test" />
       </list>
@@ -127,5 +199,16 @@
       <updated>1665767620744</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
