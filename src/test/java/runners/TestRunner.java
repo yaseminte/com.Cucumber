@@ -11,11 +11,11 @@ import org.junit.runner.RunWith;
                 "junit:target/xml-report/cucumber.xml" },
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "@parametre", // "@ikisi or @iphone" seklinde de yazilabiliyor
+        tags = "@auto", // "@ikisi or @iphone" seklinde de yazilabiliyor
         dryRun = false
 )
 
-public class Runner {
+public class TestRunner {
     /*
     Bir framewor'de bir tek Runner Class'i yeterli olabilir
     Runner class'inda class body'sinde hic bir sey olmaz

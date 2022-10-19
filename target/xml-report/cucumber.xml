@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.248">
-    <testcase classname="US1003 Kullanici parametre kullanarak arama yapılabilmeli" name="Kullanici parametre ile amazonda arama yapabilmeli" time="12.039">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="46.166">
+    <testcase classname="US015 Kullanici giris testi" name="TC01 Kullanici sitede hesap olusturur" time="45.952">
         <system-out>
-            <![CDATA[Given kullanici amazon anasayfasinda........................................passed
-And kullanici "Java" icin arama yapar.......................................passed
-And sonuclarin "Java" icerdigini test eder..................................passed
-Then sayfayi kapatir........................................................passed
+            <![CDATA[Given kullanici "automationUrl" anasayfasinda...............................passed
+And kullanici sign in linkine tiklar........................................passed
+And kullanici Create and account bolumune email adresi girer................passed
+And kullanici Create an Account butonuna basar..............................passed
+And kullanici kisisel bilgilerini ve iletisim bilgilerini girer.............passed
+And kullanici Register butonuna basar.......................................passed
+Then kullanicinin hesap olusturuldugunu dogrulayin..........................passed
+And sayfayi kapatir.........................................................passed
 ]]>
         </system-out>
     </testcase>
